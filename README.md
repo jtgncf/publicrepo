@@ -36,9 +36,9 @@ Welcome to my GitHub! I'm currently pursuing a degree in Computer Science and Ma
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Java, C++
+- **Languages**: Python, Java, C++, Rust
 - **Libraries/Frameworks**: SFML, Java Standard Library
-- **Tools**: Git, GitHub, VS Code, CLion, IntelliJ, Zed
+- **Tools**: Git, GitHub, VS Code, CLion, IntelliJ, Zed, Visual Studio, Alacritty/Kitty
 - **Learning**: Rust, Linux CLI, Git workflows, Data Structures & Algorithms
 
 ---
